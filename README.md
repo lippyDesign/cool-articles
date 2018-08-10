@@ -3,4 +3,9 @@ A collection of cool articles about computer science (i.e. best practices, desig
 
 # Performance
 - Node js performance diagnosis tools: https://medium.com/@smashingmag/keeping-node-js-fast-tools-techniques-and-tips-for-making-high-performance-node-js-servers-8cfcb55e3d7
+
+# Softare design patterns
 - Java design patterns: http://java-design-patterns.com/patterns/
+
+# UI styles
+- React sticky footer https://medium.com/@stefanmaretic/react-sticky-footer-f842d5fbd68
