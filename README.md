@@ -2,7 +2,7 @@
 A collection of cool articles about computer science (i.e. best practices, design patterns, performance, etc.)
 
 ## Communication
-- Fast and reliable UDP https://github.com/real-logic/aeron/wiki/Design-Overview
+- UDP https://github.com/real-logic/aeron/wiki/Design-Overview
 
 ## Dev Tools
 - ESlint config https://medium.com/@davidchristophersally/how-to-set-up-eslint-in-vscode-globally-253f25fbaff9
