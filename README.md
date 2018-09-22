@@ -11,6 +11,7 @@ A collection of cool articles about computer science (i.e. best practices, desig
 
 ## Performance
 - Node js performance diagnosis tools: https://medium.com/@smashingmag/keeping-node-js-fast-tools-techniques-and-tips-for-making-high-performance-node-js-servers-8cfcb55e3d7
+- Node JS Worker threads: https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953
 
 ## React
 - Setting cookies in React https://medium.com/@rossbulat/using-cookies-in-react-redux-and-react-router-4-f5f6079905dc
