@@ -19,6 +19,7 @@ A collection of cool articles about computer science (i.e. best practices, desig
 
 ## React
 - Setting cookies in React https://medium.com/@rossbulat/using-cookies-in-react-redux-and-react-router-4-f5f6079905dc
+- React chrome extension set up: https://medium.com/@SunnyGolovine/build-a-chrome-extension-using-reactjs-and-webpack-part-1-976a414b85d0
 
 ## Security
 - Web security https://www.youtube.com/watch?v=c6mqdsfWdmE
