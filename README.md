@@ -30,3 +30,6 @@ A collection of cool articles about computer science (i.e. best practices, desig
 ## UI styles
 - React sticky footer https://medium.com/@stefanmaretic/react-sticky-footer-f842d5fbd68
 - React remove outline without breaking accessibility https://www.eventbrite.com/engineering/how-to-fix-the-ugly-focus-ring-and-not-break-accessibility-in-react/
+
+## Analytics
+- Google analytics https://www.freecodecamp.org/news/performance-and-user-tracking-in-react-with-google-analytics/
