@@ -24,6 +24,7 @@ A collection of cool articles about computer science (i.e. best practices, desig
 
 ## Security
 - Web security https://www.youtube.com/watch?v=c6mqdsfWdmE
+- Oath 2 https://aaronparecki.com/oauth-2-simplified/
 
 ## Softare design patterns
 - Java design patterns: http://java-design-patterns.com/patterns/
