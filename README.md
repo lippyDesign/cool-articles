@@ -1,5 +1,5 @@
 # cool-articles
-A collection of cool articles about computer science (i.e. best practices, design patterns, performance, etc.)
+A collection of cool articles (i.e. best practices, design patterns, performance, etc.)
 
 ## Communication
 - Aeron (UDP & IPC) https://medium.com/@pirogov.alexey/aeron-low-latency-transport-protocol-9493f8d504e8
@@ -28,6 +28,7 @@ A collection of cool articles about computer science (i.e. best practices, desig
 
 ## Softare design patterns
 - Java design patterns: http://java-design-patterns.com/patterns/
+-JavaScript basic design patterns https://morioh.com/p/b4a81653a137?f=5c21fb01c16e2556b555ab32
 
 ## UI styles
 - React sticky footer https://medium.com/@stefanmaretic/react-sticky-footer-f842d5fbd68
