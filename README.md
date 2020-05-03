@@ -33,6 +33,8 @@ A collection of cool articles (i.e. best practices, design patterns, performance
 ## UI styles
 - React sticky footer https://medium.com/@stefanmaretic/react-sticky-footer-f842d5fbd68
 - React remove outline without breaking accessibility https://www.eventbrite.com/engineering/how-to-fix-the-ugly-focus-ring-and-not-break-accessibility-in-react/
+- Grid vs Flex https://dev.to/5t3ph/solutions-to-replace-the-12-column-grid-40jb
+
 
 ## Analytics
 - Google analytics with React https://www.freecodecamp.org/news/performance-and-user-tracking-in-react-with-google-analytics/
