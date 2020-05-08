@@ -38,3 +38,6 @@ A collection of cool articles (i.e. best practices, design patterns, performance
 
 ## Analytics
 - Google analytics with React https://www.freecodecamp.org/news/performance-and-user-tracking-in-react-with-google-analytics/
+
+## Build tools
+- https://medium.com/hackernoon/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758
