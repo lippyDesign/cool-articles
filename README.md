@@ -41,3 +41,6 @@ A collection of cool articles (i.e. best practices, design patterns, performance
 
 ## Build tools
 - Webpack optimizations https://medium.com/hackernoon/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758
+
+##Email
+- Node and gmail https://medium.com/@nickroach_50526/sending-emails-with-node-js-using-smtp-gmail-and-oauth2-316fe9c790a1
