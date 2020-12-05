@@ -44,3 +44,6 @@ A collection of cool articles (i.e. best practices, design patterns, performance
 
 ## Email
 - Node and gmail https://medium.com/@nickroach_50526/sending-emails-with-node-js-using-smtp-gmail-and-oauth2-316fe9c790a1
+
+## Logging
+- what to log https://medium.com/better-programming/application-logging-best-practices-a-support-engineers-perspective-b17d0ef1c5df
