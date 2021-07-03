@@ -1,6 +1,9 @@
 # cool-articles
 A collection of cool articles (i.e. best practices, design patterns, performance, etc.)
 
+## Data Processing
+- Flink Do's and Dont's https://www.youtube.com/watch?v=F7HQd3KX2TQ
+
 ## Communication
 - Aeron (UDP & IPC) https://medium.com/@pirogov.alexey/aeron-low-latency-transport-protocol-9493f8d504e8
 - IPFS https://medium.com/@rossbulat/ipfs-with-react-loading-ipfs-assets-from-your-distributed-ipfs-gateways-fc601c8307bf
