@@ -8,6 +8,7 @@ A collection of cool articles (i.e. best practices, design patterns, performance
 - Aeron (UDP & IPC) https://medium.com/@pirogov.alexey/aeron-low-latency-transport-protocol-9493f8d504e8
 - IPFS https://medium.com/@rossbulat/ipfs-with-react-loading-ipfs-assets-from-your-distributed-ipfs-gateways-fc601c8307bf
 - Origin of websockets https://tools.ietf.org/html/rfc6455
+- quick reminder on Kafka https://medium.com/@johny.devjr/how-to-implement-a-bulletproof-kafka-producer-consumer-cycle-with-nodejs-81c58dd79dd3
 
 ## Dev Tools
 - ESlint config https://medium.com/@davidchristophersally/how-to-set-up-eslint-in-vscode-globally-253f25fbaff9
