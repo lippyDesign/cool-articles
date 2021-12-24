@@ -51,3 +51,6 @@ A collection of cool articles (i.e. best practices, design patterns, performance
 
 ## Logging
 - what to log https://medium.com/better-programming/application-logging-best-practices-a-support-engineers-perspective-b17d0ef1c5df
+
+## DevOps
+- https://medium.com/bb-tutorials-and-thoughts/aws-deploying-next-js-app-with-nodejs-backend-on-eks-b31c1193ed93
