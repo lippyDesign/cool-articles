@@ -56,3 +56,6 @@ A collection of cool articles (i.e. best practices, design patterns, performance
 - create VPC, EKS cluster https://www.youtube.com/watch?v=aZd0UolVwD4
 - run node js on EKS https://medium.com/bb-tutorials-and-thoughts/aws-deploying-next-js-app-with-nodejs-backend-on-eks-b31c1193ed93
 - add EKS to existing kubernetes context https://aws.amazon.com/premiumsupport/knowledge-center/eks-cluster-connection/
+
+## Workflow management
+- Camunda modeler plugins https://emsbach.medium.com/the-best-free-plugins-for-camundas-bpmn-2-modeler-14eee0c9fdd2
