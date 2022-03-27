@@ -60,3 +60,6 @@ A collection of cool articles (i.e. best practices, design patterns, performance
 
 ## Workflow management
 - Camunda modeler plugins https://emsbach.medium.com/the-best-free-plugins-for-camundas-bpmn-2-modeler-14eee0c9fdd2
+
+## Microservice
+- Super basic arch with NestJS and gRPC https://levelup.gitconnected.com/nestjs-microservices-with-grpc-api-gateway-and-authentication-part-1-2-650009c03686
