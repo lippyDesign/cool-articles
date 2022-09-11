@@ -10,6 +10,10 @@ A collection of cool articles (i.e. best practices, design patterns, performance
 - Origin of websockets https://tools.ietf.org/html/rfc6455
 - quick reminder on Kafka https://medium.com/@johny.devjr/how-to-implement-a-bulletproof-kafka-producer-consumer-cycle-with-nodejs-81c58dd79dd3
 
+## DB
+- Poostgres fuzzy matching with indexes: https://niallburkley.com/blog/index-columns-for-like-in-postgres/
+- Postgres fuzzy search: https://arctype.com/blog/postgres-fuzzy-search/
+
 ## Dev Tools
 - ESlint config https://medium.com/@davidchristophersally/how-to-set-up-eslint-in-vscode-globally-253f25fbaff9
 - iTerm config https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c
