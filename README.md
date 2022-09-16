@@ -13,6 +13,7 @@ A collection of cool articles (i.e. best practices, design patterns, performance
 ## DB
 - Poostgres fuzzy matching with indexes: https://niallburkley.com/blog/index-columns-for-like-in-postgres/
 - Postgres fuzzy search: https://arctype.com/blog/postgres-fuzzy-search/
+- Postgres full text search: https://m.youtube.com/watch?v=szfUbzsKvtE&feature=youtu.be
 
 ## Dev Tools
 - ESlint config https://medium.com/@davidchristophersally/how-to-set-up-eslint-in-vscode-globally-253f25fbaff9
